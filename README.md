@@ -93,12 +93,7 @@ Automatically updates job list and prints status (e.g., “Done” or “Stopped
    make run
    ```
 
-4. Check for memory issues:
-   ```
-   make valgrind
-   ```
-
-5. Clean build artifacts:
+4. Clean build artifacts:
    ```
    make clean
    ```
